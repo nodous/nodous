@@ -1,4 +1,7 @@
-[！[Anurag的github统计信息]（https://github-readme-stats.vercel.app/api？username = nodous ）]（https://github.com/anuraghazra/github-readme-stats）
+# nodouscd
 
 
-！[Anurag的github统计信息]（https://github-readme-stats.vercel.app/api？username = nodous＆count_private = true）
+[！[Anurag的github统计信息]（https://github.com/nodous/kaoyan？username = nodous ）]（https://github.com/nodous/kaoyan）
+
+
+！[Anurag的github统计信息]（https://github.com/nodous/kaoyan？username = nodous＆count_private = true）
