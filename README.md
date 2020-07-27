@@ -1,7 +1,7 @@
-# nodouscd
+## 泡面的个人主页
 
+#### 前端大龄青年 
 
-[！[Anurag的github统计信息]（https://github.com/nodous/kaoyan？username = nodous ）]（https://github.com/nodous/kaoyan）
+### 人在上海
 
-
-！[Anurag的github统计信息]（https://github.com/nodous/kaoyan？username = nodous＆count_private = true）
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nodous)](https://github.com/anuraghazra/github-readme-stats)
